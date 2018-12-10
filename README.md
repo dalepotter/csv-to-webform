@@ -2,7 +2,7 @@
 
 Proof-of-concept to demonstrate automated data entry (from a CSV file to a webform).
 
-Uses the [Splinter library](https://splinter.readthedocs.io/) to enter data from a known CSV (`sample_data.csv`) into a corresponding webform (https://goo.gl/forms/D8DLeJawU91srNCB2).
+Uses the [Splinter library](https://splinter.readthedocs.io/) to enter data from a known CSV (`sample_data.csv`) into a [corresponding webform](https://goo.gl/forms/D8DLeJawU91srNCB2).
 
 Developed for python 3.6.7
 
